@@ -1,1 +1,1 @@
-# calculadora_aquecimento_global
+# calculadora sobre aquecimento global
