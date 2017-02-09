@@ -1,10 +1,9 @@
-
 Tipo;Quantidade;Potência Outorgada (kW); Potência Fiscalizada (kW); %;
-CGH;588;488.250;489.911;0,32;
-EOL;416;10.219.738;10.468.142;6,9;
-PCH;438;4.945.659;4.935.063;3,25;
-UFV;42;27.008;23.008;0,02;
-UHE;219;101.138.278;92.605.229;61,07;
-UTE;2.945;42.784.598;41.122.599;27,12;
-UTN;2;1.990.000;1.990.000;1,31;
+Central Geradora Hidrelétrica;588;488.250;489.911;0,32;
+Central Geradora Eólica;416;10.219.738;10.468.142;6,9;
+Pequena Central Hidrelétrica;438;4.945.659;4.935.063;3,25;
+Central Geradora Solar Fotovoltaica;42;27.008;23.008;0,02;
+Usina Hidrelétrica;219;101.138.278;92.605.229;61,07;
+Usina Termelétrica;2.945;42.784.598;41.122.599;27,12;
+Usina Termonuclear;2;1.990.000;1.990.000;1,31;
 Total;4.650;161.593.531;151.633.952;100;
