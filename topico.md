@@ -1,4 +1,4 @@
-# topicos
+# tópicos
 
 1. tempo x clima
     - comparar os dados de previsão do tempo e dados sobre temperatura média global
@@ -22,3 +22,10 @@
     - CO2 nos items de consumo
     - impacto do estilo de vida
     - produção de um site que calcula a emissão de gases poluentes
+
+## bases de dados utilizadas/serviços utilizados
+
+1. 
+    - darksky ou yahoo weather?
+    - annual_ocean_temp.csv
+    - temparatura atmosférica (falta)
