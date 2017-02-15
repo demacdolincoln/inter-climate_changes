@@ -5,3 +5,4 @@
 * annual_ocean_temp.csv -- http://data.okfn.org/data/core/global-temp
 * cdc_zika.csv -- https://www.kaggle.com/cdc/zika-virus-epidemic
 * historico_tempo_curado.csv -- http://www.inmet.gov.br/projetos/rede/pesquisa/
+* nivel_oceanico.csv -- https://www.star.nesdis.noaa.gov/sod/lsa/SeaLevelRise/LSA_SLR_timeseries.php
