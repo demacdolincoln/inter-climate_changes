@@ -10,3 +10,4 @@
     * Consequências da elevação do nível do mar
     
     Cada grupo pesquisa materiais na internet a respeito dos seus respectivos temas e escrevem um breve resumo do que foi encontrado. Em seguida eles elegem um representante, este representante vai para o grupo ao lado, explica o que eles aprenderam com a pesquisa e recebe a explicação do que o grupo aprendeu pesquisando. Ao final um pequeno debate sobre cada assunto.
+    // encontrar artigos com estatíticas para plotar gráficos
