@@ -6,3 +6,4 @@
 * cdc_zika.csv -- https://www.kaggle.com/cdc/zika-virus-epidemic
 * historico_tempo_curado.csv -- http://www.inmet.gov.br/projetos/rede/pesquisa/
 * nivel_oceanico.csv -- https://www.star.nesdis.noaa.gov/sod/lsa/SeaLevelRise/LSA_SLR_timeseries.php
+* fluxo-de-veiculo.csv -- http://dados.recife.pe.gov.br/dataset/amostra-de-fluxo-de-veiculos-a-cada-15-minutos/resource/3c715480-67e4-489a-99d4-c01913c92996
