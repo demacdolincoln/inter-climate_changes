@@ -5,7 +5,29 @@
 		<link rel="stylesheet" href="http://bootswatch.com/yeti/bootstrap.min.css">
 	</head>
 	<body>
-		<h1>Calculadora de emissões de carbono</h1>
-		<p>Tenha uma rápida noção do impacto ambiental causado pelo dia a dia</p>
+		<div class="text-center container-fluid">
+			<h1>Calculadora de emissões de carbono</h1>
+			<p>Tenha uma rápida noção do impacto ambiental causado pelo dia a dia</p>
+		</div>
+		<div class="row">
+			<div class="col-sm-2">
+			</div>
+			<div class="col-sm-5">
+				<form method="post" accept-charset="utf-8">
+					<input type="text" class="form-control" placeholder="veiculo"/>
+					<input type="text" class="form-control" placeholder="alimentacao"/>
+					<input type="text" class="form-control" placeholder="energia eletrica"/>
+					<input type="text" class="form-control" placeholder="gás de cozinha"/>
+					<input type="text" class="form-control" placeholder="eletronicos"/>
+					<input type="text" class="form-control" placeholder="viagem"/>
+					<input type="text" class="form-control" placeholder="estado"/>
+					<button type="submit" class="button">enviar</button>
+				</form>
+				
+			</div>			
+			<div class="col-sm-3">
+				<p style="font-size:120px" class="text-center">250 T/co2</p>
+			</div>
+		</div>
 	</body>
 </html>
