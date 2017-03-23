@@ -6,6 +6,7 @@
 
 3. Divisão da turma em 3 grupos:
     * Arboviroses
+        - [Arboviroses emergentes e novos desafios para a saúde pública no Brasil](http://www.scielosp.org/pdf/rsp/v50/pt_0034-8910-rsp-S1518-87872016050006791.pdf)
     * Doenças causadas pelos gases do efeito estufa
     * Consequências da elevação do nível do mar
     
