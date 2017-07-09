@@ -1,4 +1,4 @@
-# Descrição do bloco
+# Descrição do bloco 1 - Tempo x Clima
 
 O objetivo é deixar clara a relação entre os dados coletados para pervisões e registros meteorológicos e o seu uso nos estudos do clima além de introduzir a perspectiva da interligação entre diferentes áreas e a atualidade do tema.
 
