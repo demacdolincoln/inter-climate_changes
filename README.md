@@ -41,4 +41,4 @@ O conteúdo da sequência didática está organizado em 5 blocos (ver a pasta au
 
 ---
 
-Ainda falta muito para abranger diversas outras áreas, tendo em vista que este trabalho foi feito por apenas 2 pessoas, por isso, se quiser ajudar, adicione issues no projeto ou mande um email para lincoln000@openmailbox.org
+Ainda falta muito para abranger diversas outras áreas, tendo em vista que este trabalho foi feito por apenas 2 pessoas, por isso, se quiser ajudar, adicione issues no projeto ou mande um email para [lincoln000@openmailbox.org](mailto:lincoln000@openmailbox.org)
