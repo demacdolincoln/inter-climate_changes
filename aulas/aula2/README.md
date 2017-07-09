@@ -17,6 +17,6 @@
 * Debate sobre a variação do nível médio oceânico.
     * Modelar uma fórmula matemática que represente esta variação
 
-* Debate sobre o vídeo: [Antártida enfrenta fase crítica por causa das mudanças climáticas]("https://youtu.be/tCqO0eq0JE4")
+* Debate sobre o vídeo: [Antártida enfrenta fase crítica por causa das mudanças climáticas](https://youtu.be/tCqO0eq0JE4)
 
 * Incentivar os alunos a buscar páginas dedicadas a divulgação dos dados coletados pelos satélites responsáveis pelos dados exibidos no gráfico sobre o nível médio oceânico
