@@ -8,7 +8,7 @@
 
 * Fatores que alteram os comportamentos meteorológico e climático:
     * Composição química da atmosfera
-    * Proximidade com o Sol
+    * Proximidade do Sol
     * Geografia
     * Vegetação
 
