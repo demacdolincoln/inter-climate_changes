@@ -19,4 +19,6 @@
 
 * Debate sobre o vídeo: [Antártida enfrenta fase crítica por causa das mudanças climáticas](https://youtu.be/tCqO0eq0JE4)
 
+* Leitura e debate sobre o artigo: [O nível do mar subiu mais rápido no século XX do que nos 3000 anos anteriores](https://brasil.elpais.com/brasil/2016/02/22/ciencia/1456156001_954238.html)
+
 * Incentivar os alunos a buscar páginas dedicadas a divulgação dos dados coletados pelos satélites responsáveis pelos dados exibidos no gráfico sobre o nível médio oceânico
