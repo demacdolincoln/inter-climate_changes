@@ -16,6 +16,8 @@ Obs.: Recomenda-se estimular os alunos a variar a largura dos gráficos e a dar 
 
 ### Dados meteorológicos:
 
+<a href="https://nbviewer.jupyter.org/github/demacdolincoln/inter-climate_changes/blob/master/aulas/aula1/exercicio_meteorologia.ipynb" target="_blank"><button>Ver notebook de exemplo</button></a>
+
 * Incentivar os alunos a buscar "anomalias" nos gráficos meteorológicos, cada aluno ou grupo de alunos deverá escolher uma coluna da base de dados (ex.: insolação e precipitação total), comparar e discutir que conclusões pode-se obter do cruzamento daqueles dados.
 
 * Os alunos deverão pesquisar sobre períodos de enxentes ou seca em alguma parte do país, em sala de aula o(a) professor(a) deverá baixar os dados meteorológicos diários correspondentes àquele período disponíveis no [BDMEP](http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep) e debater o que os dados dizem a respeito daquele momento.
