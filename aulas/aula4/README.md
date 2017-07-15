@@ -1,4 +1,4 @@
-# Descrição do bloco 4 - Emissão diária de CO2
+# Descrição do bloco 4 - [Emissão diária de CO2](https://nbviewer.jupyter.org/github/demacdolincoln/inter-climate_changes/blob/master/aulas/aula4/emissao_co2_diaria.ipynb):
 
 ## Atividades sugeridas
 

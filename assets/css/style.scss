@@ -1,8 +1,4 @@
 ---
----
-
-@import "{{ site.theme }}";
-
 .nbviewer {
   background: #659E10;
   border: none;
@@ -11,3 +7,7 @@
   color: #252525;
   font-family: monospace;
 }
+
+---
+
+@import "{{ site.theme }}";

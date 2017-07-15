@@ -1,4 +1,4 @@
-# Descrição do bloco 3 - Impactos ambientais
+# Descrição do bloco 3 - Impactos ambientais:
 
 ## Introdução às atividades do bloco:
 
