@@ -17,10 +17,14 @@
 
 ### Exercício sobre o processo de industialização no Brasil
 
+<a href="https://nbviewer.jupyter.org/github/demacdolincoln/inter-climate_changes/blob/master/aulas/aula4/exercicio_industrializacao_Brasil.ipynb" target="_blank">
+<button class="nbviewer" >Ver notebook de exemplo</button>
+</a>
+
 - Em conjunto a turma analisa e discute o gráfico que representa a emissão de gases por combustíveis fósseis por período da história da República.
 
 - A turma é dividida em cinco grupos, cada grupo analisa um aspecto que considere relevante sobre algum período (os períodos devem ser distintos mas mais de um grupo poderá escolher o mesmo parãmetro).
- 
+
 - Cada grupo escreve um relatório com anotações sobre o que pesquisaram e que conclusões tomaram.
- 
+
 - Ao final se debate a relação entre emissão de poluentes, momento histórico, política econômica e desenvolvimento de tecnologias limpas.

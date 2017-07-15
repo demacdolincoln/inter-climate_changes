@@ -16,7 +16,9 @@ Obs.: Recomenda-se estimular os alunos a variar a largura dos gráficos e a dar 
 
 ### Dados meteorológicos:
 
-<a href="https://nbviewer.jupyter.org/github/demacdolincoln/inter-climate_changes/blob/master/aulas/aula1/exercicio_meteorologia.ipynb" target="_blank"><button class="nbviewer" >Ver notebook de exemplo</button></a>
+<a href="https://nbviewer.jupyter.org/github/demacdolincoln/inter-climate_changes/blob/master/aulas/aula1/exercicio_meteorologia.ipynb" target="_blank">
+<button class="nbviewer" >Ver notebook de exemplo</button>
+</a>
 
 * Incentivar os alunos a buscar "anomalias" nos gráficos meteorológicos, cada aluno ou grupo de alunos deverá escolher uma coluna da base de dados (ex.: insolação e precipitação total), comparar e discutir que conclusões pode-se obter do cruzamento daqueles dados.
 
