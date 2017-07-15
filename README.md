@@ -6,7 +6,7 @@ O conteúdo da sequência didática está organizado em 5 blocos (ver a pasta au
 
 ---
 
-## [1. tempo x clima](aulas/aula1/README.md)
+### [1. tempo x clima](aulas/aula1/README.md)
     - dados metereológicos e dados sobre temperatura média global
 
 ---
