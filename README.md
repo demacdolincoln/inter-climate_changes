@@ -1,6 +1,6 @@
 # Aquecimento global e Mudanças climáticas
 
-Criado inicialmente como uma sequência didática no projeto da cadeira sobre ensino interdisciplinar na UFRPE, resolvemos desenvolvê-lo de forma aberta e colaborativadisponibilizando todo o material no github para que outros professores também possam utiliza-lo.
+Criado inicialmente como uma sequência didática no projeto da cadeira sobre ensino interdisciplinar na UFRPE, resolvemos desenvolvê-lo de forma aberta e colaborativa, disponibilizando todo o material no github para que outros professores também possam utiliza-lo.
 
 O conteúdo da sequência didática está organizado em 5 blocos (ver a pasta aulas):
 
