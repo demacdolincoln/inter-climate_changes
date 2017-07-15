@@ -14,3 +14,13 @@
     - aterros sanitários x lixões
 
 * Debate sobre ocupação urbana e poluição.
+
+### Exercício sobre o processo de industialização no Brasil
+
+- Em conjunto a turma analisa e discute o gráfico que representa a emissão de gases por combustíveis fósseis por período da história da República.
+
+- A turma é dividida em cinco grupos, cada grupo analisa um aspecto que considere relevante sobre algum período (os períodos devem ser distintos mas mais de um grupo poderá escolher o mesmo parãmetro).
+ 
+- Cada grupo escreve um relatório com anotações sobre o que pesquisaram e que conclusões tomaram.
+ 
+- Ao final se debate a relação entre emissão de poluentes, momento histórico, política econômica e desenvolvimento de tecnologias limpas.
