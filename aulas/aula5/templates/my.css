@@ -1,0 +1,13 @@
+ .fixed-bg {
+    /* The background image */
+    background-image: url("http://www.nature.org.au/media/1909/pollution.jpg");
+    min-height: 500px;
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+    /* Center the background image */
+    background-position: center;
+    /* Set the background image to no repeat */
+    background-repeat: no-repeat;
+    /* Scale the background image to be as large as possible */
+    background-size: cover;
+}
