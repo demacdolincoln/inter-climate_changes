@@ -19,5 +19,5 @@ Recomenda-se o uso do [Seaborn](http://seaborn.pydata.org) por ter gráficos que
 
 
 <a href="templates/index.html" target="_blank">
-<button class="nbviewer" >Ver notebook de exemplo</button>
+<button class="nbviewer" >Ver site de exemplo</button>
 </a>
